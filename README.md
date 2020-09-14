@@ -25,7 +25,8 @@ Sparkify.ipynb - Jupyter notebook containing the code and analysis.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@michael.hartmann.2065/customer-churn-in-online-music-streaming-7fc426b383bd).
+The main findings of the code can be found at the post available here:
+https://medium.com/@michael.hartmann.2065/customer-churn-in-online-music-streaming-7fc426b383bd.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
